@@ -4,7 +4,7 @@ import requests
 import rembg
 from io import BytesIO
 
-# Initialising pygame module
+# Initializing pygame module
 pygame.init()
 
 # Setting Width and height of the Chess Game screen
